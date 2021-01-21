@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+div{
+    margin: 2rem auto;
+    
+    width: 50rem;
+    text-align: center;
+    
+}
